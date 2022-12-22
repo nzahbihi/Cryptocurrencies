@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Overview
-The purpose of this analysis is to create a report that includes what cryptocurrencies are on the trading market, and how they could be grouped to create a classification system.
+The purpose of this analysis is to create a report that includes which cryptocurrencies are on the trading market, and how they could be grouped to create a classification system.
 
 ## Resources
 * Data Source: crypto_data.csv
